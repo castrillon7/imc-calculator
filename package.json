@@ -1,0 +1,29 @@
+{
+  "name": "imc-calculator",
+  "version": "1.0.0",
+  "description": "A simple IMC calculator package",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castrillon7/imc-calculator.git"
+  },
+  "keywords": [
+    "puc",
+    "study",
+    "imc",
+    "calculator"
+  ],
+  "author": "Castrillon7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castrillon7/imc-calculator/issues"
+  },
+  "homepage": "https://github.com/castrillon7/imc-calculator#readme"
+}
