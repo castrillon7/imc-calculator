@@ -1,6 +1,6 @@
 {
-  "name": "imc-calculator",
-  "version": "1.0.0",
+  "name": "@castrillon7/imc-calculator",
+  "version": "2.0.0",
   "description": "A simple IMC calculator package",
   "main": "index.js",
   "dependencies": {
@@ -20,7 +20,7 @@
     "imc",
     "calculator"
   ],
-  "author": "Castrillon7",
+  "author": "castrillon7",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/castrillon7/imc-calculator/issues"
