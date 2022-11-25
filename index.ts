@@ -6,19 +6,11 @@ import { Gender } from './src/macronutrients/types/gender.enum';
 import IMC from './src/imc/imc';
 import Macronutrients from './src/macronutrients/macronutrients';
 
-const types = {
+export {
+  IMC,
+  Macronutrients,
   Gender,
   IMCStatus,
   MacronutrientsStrategy,
   PhysicalActivityLevel,
-};
-
-const classes = {
-  IMC,
-  Macronutrients,
-};
-
-export default {
-  ...classes,
-  ...types,
 };
