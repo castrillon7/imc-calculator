@@ -1,6 +1,6 @@
 {
   "name": "@castrillon7/imc-calculator",
-  "version": "2.0.14",
+  "version": "2.0.16",
   "description": "A simple IMC calculator package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "release": "rm -rf dist/ && yarn build && release-it",
-    "prepublish": "yarn build",
+    "prepublish": "rm -rf dist/ && yarn build",
     "build": "tsc",
     "test": "jest"
   },
