@@ -1,6 +1,6 @@
 # Health Calculator
 
-Simple lib to calculate a few health related index and suggestions.
+Simple lib to calculate a few health related index and suggestions. [Example using this lib](https://github.com/castrillon7/imc-calculator-user)
 
 ## Installation
 
